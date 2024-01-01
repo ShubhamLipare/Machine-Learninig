@@ -1,0 +1,50 @@
+
+
+L1 L2 regularization--------------------------------------------------------------------------------------
+https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
+
+Logistic regression-------------------------------------------------------------------------------------
+https://www.analyticsvidhya.com/blog/2021/07/an-introduction-to-logistic-regression/
+https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
+
+confusion metrix-----------------------------------------------------------------------------------------
+https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+
+AUC ROC curve--------------------------------------------------------------------------------------------
+https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/
+
+Feature scaling-------------------------------------------------------------------------------------------
+https://rahul-saini.medium.com/feature-scaling-why-it-is-required-8a93df1af310
+
+Decision tree--------------------------------------------------------------------------------------------
+https://enjoymachinelearning.com/blog/gini-index-vs-entropy/
+https://python.plainenglish.io/decision-tree-parameters-explanations-tuning-a2b0749976e5
+https://medium.com/analytics-vidhya/decision-tree-fce5018f3278
+
+Random Forest--------------------------------------------------------------------------------------------
+https://medium.com/swlh/random-forest-ac5227dabb08
+https://www.analyticsvidhya.com/blog/2021/04/getting-into-random-forest-algorithms/
+
+Bagging and boosting------------------------------------------------------------------------------------
+https://www.kaggle.com/code/prashant111/bagging-vs-boosting
+
+boosting parameter tunning-----------------------------------------------------------------------------------
+https://medium.com/all-things-ai/in-depth-parameter-tuning-for-gradient-boosting-3363992e9bae
+
+Adabust----------------------------------------------------------------------------------
+https://blog.paperspace.com/adaboost-optimizer/
+
+Gradient boosting vs Adaboost----------------------------------------------------------------------------------
+https://analyticsindiamag.com/adaboost-vs-gradient-boosting-a-comparison-of-leading-boosting-algorithms/
+
+KNN-------------------------------------------------------------------------------------------------------------
+https://medium.com/analytics-vidhya/k-nearest-neighbors-knn-8f027ae1228f
+https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-your-skills-on-k-nearest-neighbour/#:~:text=Yes%2C%20feature%20scaling%20is%20required,varies%20from%20%2D999%20to%20999
+
+SVM-----------------------------------------------------------------------------------------------------------
+https://www.analyticsvidhya.com/blog/2021/06/support-vector-machine-better-understanding/
+https://medium.com/analytics-vidhya/the-last-blog-you-will-read-on-svm-8598cf3d0603
+
+K means
+https://www.analyticsvidhya.com/blog/2020/10/a-simple-explanation-of-k-means-clustering/
+https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
